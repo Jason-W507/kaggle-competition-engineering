@@ -1,6 +1,7 @@
 ---
 name: kaggle-competition-engineering
-description: Design and debug complex Kaggle competition systems: code competitions, producer/consumer pipelines, artifact datasets, validation, ensembling, and hidden-rerun robustness. Use for competition engineering, not Kaggle browsing, public-kernel discovery/reproduction, ordinary submissions, or dataset uploads.
+description: >-
+  Design and debug complex Kaggle competition systems: code competitions, producer/consumer pipelines, artifact datasets, validation, ensembling, and hidden-rerun robustness. Use for competition engineering, not Kaggle browsing, public-kernel discovery/reproduction, ordinary submissions, or dataset uploads.
 ---
 
 # Kaggle Competition Engineering
